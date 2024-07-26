@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://i.pinimg.com/564x/da/fe/f2/dafef2bfaa1dfb894ce197f18f2debe2.jpg);
+    background-size: 100%;
+}
+header {
+    background-color: #bb8fce;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #bb8fce;
+    color: #fff;
+}
+.presentacion{
+    width: 40%;
+}
+.contenedorLineas{
+    width: 40vw;
+    align-content: center;
+}
+.hijo4 p{
+    width: 30%;
+}
+.contenedorInformacion{
+    width: 80vw;
+}
+.contenedorInformacions, .contenedorRedesSociales{
+    width: 30vw;
+}
